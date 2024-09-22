@@ -1,0 +1,38 @@
+.heading{
+    text-align: center;
+    color: black ;
+
+}
+body{
+    background-color:rgba(0, 217, 255, 0.897);
+}
+.div{
+    width: 400px;
+    height: 450px;
+    background-color:  rgb(247, 247, 247);
+    border-radius: 20px;
+    display: inline-block;
+    margin: 20px;
+
+
+    }
+.no1{
+    width: 300px;
+    height: 300px;
+    padding-left: 50px;
+   
+    
+    
+}
+h2{
+    text-align: center;
+    
+}
+.button{
+    width: 170px;
+    height: 40px;
+    margin-left: 115px;
+    background-color: bisque;
+    border-radius: 5px;
+    border: transparent;
+}
